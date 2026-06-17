@@ -45,8 +45,11 @@ Matplotlib & Seaborn	Data Visualization
 SQL (MySQL/PostgreSQL/SQL Server)	Business Query Analysis
 Power BI	Interactive Dashboard Development
 Gamma	Presentation Creation
+
+
 Jupyter Notebook	Analysis Environment
 Project Workflow
+
 1. Data Loading
 Imported dataset using Python.
 Verified data structure and data types.
@@ -58,9 +61,7 @@ Standardized column formats.
 Corrected inconsistent entries.
 Prepared dataset for analysis.
 3. Exploratory Data Analysis (EDA)
-
 Performed detailed analysis on:
-
 Customer demographics
 Sales distribution
 Product category performance
@@ -69,7 +70,6 @@ Payment method preferences
 Geographic purchasing patterns
 Customer frequency analysis
 4. SQL Analysis
-
 Created SQL queries to answer business questions such as:
 
 Top-selling product categories
@@ -78,8 +78,8 @@ Customer segmentation by spending
 Seasonal sales performance
 Payment method analysis
 Purchase frequency trends
-5. Power BI Dashboard
 
+5. Power BI Dashboard
 Designed an interactive dashboard featuring:
 
 Total Sales KPI
@@ -116,7 +116,6 @@ Trend analysis
 Customer behavior insights
 Business performance monitoring
 
-Dashboard screenshots can be added in this section.
 
 Project Structure
 Retail-Customer-Shopping-Trends-Analysis/
@@ -140,6 +139,8 @@ Retail-Customer-Shopping-Trends-Analysis/
 │   └── Retail_Insights_Presentation.pptx
 │
 └── README.md
+
+
 Results
 
 The project successfully transformed raw retail data into meaningful business insights through:
@@ -152,22 +153,4 @@ Professional Reporting & Presentation
 
 The findings can help businesses improve customer engagement, optimize product strategies, and support data-driven decision-making.
 
-How to Run
-Python Analysis
-pip install pandas numpy matplotlib seaborn
-jupyter notebook retail_analysis.ipynb
-SQL Analysis
-Import the dataset into MySQL, PostgreSQL, or SQL Server.
-Execute queries from:
-retail_business_queries.sql
-Power BI Dashboard
-Open:
-Retail_Dashboard.pbix
-Refresh data connections.
-Explore the dashboard using interactive filters and visualizations.
-Future Enhancements
-Customer Segmentation using Machine Learning
-Sales Forecasting Models
-Recommendation Systems
-Automated Data Pipelines
-Real-Time Dashboard Integration
+
